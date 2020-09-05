@@ -15,5 +15,5 @@ The monitoring system is developed by employees of the Heidelberg University Com
     Fabian Gebhart, gebhart@stud.uni-heidelberg.de
     Thomas Hochstrasser, thomas.hochstrasser@gmx.net
     Oliver Mattes, oliver.mattes@urz.uni-heidelberg.de
-    Sotirios Nikas, nikas@stud.uni-heidelberg.de
+    Sotirios Nikas, sotirios-nikas@outlook.com
 
