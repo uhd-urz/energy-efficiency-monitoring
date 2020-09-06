@@ -12,7 +12,7 @@ The monitoring system is developed by employees of the Heidelberg University Com
 (in alphabetical order)
 
     Martin Baumann, martin.baumann@urz.uni-heidelberg.de
-    Fabian Gebhart, gebhart@stud.uni-heidelberg.de
+    Fabian Gebhart, fabian.gebhart@gmail.com
     Thomas Hochstrasser, thomas.hochstrasser@gmx.net
     Oliver Mattes, oliver.mattes@urz.uni-heidelberg.de
     Sotirios Nikas, sotirios-nikas@outlook.com
